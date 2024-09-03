@@ -1,0 +1,3 @@
+cert_fqdn       = "app-name.your-route53-hosted-zone.com"
+email_address   = "your.email@example.com"
+r53_domain_name = "your-route53-hosted-zone.com"
